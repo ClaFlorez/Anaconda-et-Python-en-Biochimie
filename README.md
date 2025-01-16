@@ -4,7 +4,7 @@
 
 Anaconda est une distribution Python gratuite et open source, spécialement conçue pour la science des données, l'apprentissage automatique et le calcul scientifique. Elle simplifie la gestion des packages et des environnements.
 
-![Logo Anaconda](image_anaconda_logo.png)
+![Logo Anaconda](anaconda_logo-1024x512.png)
 *Le logo officiel d'Anaconda, représentant un serpent vert stylisé.*
 
 ---
