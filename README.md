@@ -6,7 +6,7 @@ Anaconda est une distribution Python gratuite et open source, spécialement con�
 
 ![Logo Anaconda](anaconda_logo-1024x512.png) width="200"
 
-
+<img src="anaconda_logo-1024x512.png" width="200" alt="Logo Anaconda">
 ---
 
 ## 🧩 Composants Principaux
