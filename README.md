@@ -37,7 +37,7 @@ Une interface graphique conviviale qui permet de :
 - Installer des applications comme Spyder ou Jupyter Notebook.
 - Lancer vos outils en un clic.
 
-<img src="composants.JPG" width="400" alt="Logo Anaconda">
+<img src="composants.JPG" width="600" alt="Logo Anaconda">
 ---
 
 ## 🔧 Outils Intégrés
