@@ -37,9 +37,7 @@ Une interface graphique conviviale qui permet de :
 - Installer des applications comme Spyder ou Jupyter Notebook.
 - Lancer vos outils en un clic.
 
-![Anaconda Navigator](image_anaconda_navigator.png)
-*Capture d'écran d'Anaconda Navigator montrant ses différentes fonctionnalités.*
-
+<img src="composants.JPG" width="200" alt="Logo Anaconda">
 ---
 
 ## 🔧 Outils Intégrés
