@@ -13,8 +13,7 @@ Anaconda est une distribution Python gratuite et open source, spécialement con�
 
 Anaconda inclut **Python** et plus de **250 packages scientifiques pré-installés**, vous permettant de démarrer vos projets rapidement.
 
-![Python dans Anaconda](image_python_packages.png)
-*Illustration montrant Python au centre, entouré de packages populaires comme NumPy, pandas, scikit-learn.*
+<img src="python-libraries.png" width="600" alt="Python packages">
 
 ---
 
