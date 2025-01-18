@@ -48,8 +48,7 @@ Spyder est un **environnement de développement intégré (IDE)** conçu pour le
 - Une console interactive.
 - Un explorateur de variables pour visualiser vos données.
 
-![Spyder IDE](image_spyder_ide.png)
-*Capture d'écran de Spyder montrant l'éditeur, la console et l'explorateur.*
+<img src="Spyder-IDE.JPG" width="300" alt="Logo Anaconda">
 
 ---
 
